@@ -3,6 +3,7 @@ from pygame.locals import *
 from random import randint
 import time
 
+y=1
 x_square=10
 y_square=80
 duration=1.5
